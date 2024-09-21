@@ -15,7 +15,7 @@ Hello! My name is Luas Adil Kurniawan, I'm a game programmer mainly using Unity.
   </tr>
   
   <tr width="500px">
-    <td>Echoes Beneath is a 3D Horror Game where the objective is to escape from sewer, uncover mystery ,and avoid the monster.</td>
+    <td>Echoes Beneath is a 3D Horror Game where the objective is to escape from sewer, uncover mystery, and avoid the monster.</td>
     <td>Shadow of the Relics is a 2D platformer game where you play as Ucup trying to retrieve the relics by evading all the enemies through use of your tools.</td>
   </tr>
   <tr>
