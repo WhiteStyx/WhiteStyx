@@ -1,5 +1,5 @@
 ## Hi There
-Hello! My name is Luas Adil Kurniawan, I'm a game programmer mainly using Unity. Currently an active student at Binus University, majoring in Game Application and Technology. I aspire to be an expert at game programming and are always learning more everyday.
+Hello! My name is Luas Adil Kurniawan, I'm a passionate game programmer mainly using Unity. Currently an active student at Binus University, majoring in Game Application and Technology. I strive to be better at game programming and are always learning more everyday.
 
 
 ## ✨Featured Projects
@@ -10,7 +10,7 @@ Hello! My name is Luas Adil Kurniawan, I'm a game programmer mainly using Unity.
     </tr>
   <tbody>
   <tr width="500px" align="center">
-  <td><img src="https://github.com/user-attachments/assets/50d90b91-a025-40c3-97e9-b4ec1b483c39" height="200px"></td>
+  <td><img src="https://github.com/user-attachments/assets/2be270e9-a073-4033-9f04-e94828dda4e4" height="200px"></td>
   <td><img src="https://github.com/user-attachments/assets/548b27cc-54e2-4ca9-ac4e-13efca30d0f4" height="200px"></td>
   </tr>
   
